@@ -1,16 +1,18 @@
-## python 初级学习大纲
+## python 基础教程学习大纲
 
-最后更新日期：2017.5.26
+最后更新日期：2019.7.1
 
 #### Lesson 1
 * Python 简介
 * 准备工作
+* 如何运行 Python 程序
 * 基本变量概念
 * print() 和 input() 用法
 * Python 开发环境介绍
-    * Python IDLE 用法
     * Anaconda 介绍
+    * Python IDLE 用法
     * Jupyter 和 notebook介绍
+    * VSCode 介绍
     * Pycharm 用法介绍
 
 #### Lesson 2 
@@ -24,11 +26,13 @@
 #### Lesson 3
 * list 的切片用法
 * 函数用法
+* 类和方法
 
 #### Lesson 4
 * 日期库 datetime 用法介绍，datetime、time 等库的介绍，获得日期，字符串和日期转换，日期格式介绍，日期加减计算
 * 函数不同参数形式介绍和举例 
 * 匿名函数 lambda
+* 装饰器介绍与举例
 
 #### Lesson 5
 * 文件和目录操作之一：文件和目录操作
